@@ -1,2 +1,3 @@
 # gpg
 GPG Public Key
+Fingerprint: CB2D 3194 FE88 0F1F 337B  176E 5F25 0FDE 0F65 0EE5
